@@ -6,9 +6,6 @@ Building advanced test automation frameworks for web, mobile, and Windows applic
 🌱 I’m currently learning...
 Exploring DevOps practices to better integrate automated testing with development and deployment workflows.
 
-👯 I’m looking to collaborate on...
-Open-source testing projects, particularly focused on automated testing frameworks for web, mobile.
-
 🤔 I’m looking for help with...
 Innovative ways to scale automated test suites for large-scale applications, and best practices for integrating DevOps and QA automation.
 
