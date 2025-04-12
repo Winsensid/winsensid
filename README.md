@@ -10,7 +10,7 @@ Exploring DevOps practices to better integrate automated testing with developmen
 Innovative ways to scale automated test suites for large-scale applications, and best practices for integrating DevOps and QA automation.
 
 📫 How to reach me:
-Feel free to reach out through GitHub or connect with me on LinkedIn.
+Feel free to reach out through GitHub or connect with me on LinkedIn. 
 
 ⚡ Fun fact:
 I speak four languages and enjoy working in diverse, multicultural teams!
