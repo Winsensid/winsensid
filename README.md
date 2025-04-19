@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Winsen, an experienced Software QA Automation 
 Building advanced test automation frameworks for web, mobile, and Windows applications using tools like Selenium,Playwright and AutoIT while improving CI/CD pipelines for continuous integration and delivery.
 
 🌱 I’m currently learning...
-Exploring DevOps practices to better integrate automated testing with development and deployment workflows.
+Exploring DevOps practices to better integrate automated testing with development and deployment workflows. 
  
 🤔 I’m looking for help with... 
 Innovative ways to scale automated test suites for large-scale applications, and best practices for integrating DevOps and QA automation.
