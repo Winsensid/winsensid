@@ -7,7 +7,7 @@ Building advanced test automation frameworks for web, mobile, and Windows applic
 Exploring DevOps practices to better integrate automated testing with development and deployment workflows. 
  
 🤔 I’m looking for help with... 
-Innovative ways to scale automated test suites for large-scale applications, and best practices for integrating DevOps and QA automation. 
+Innovative ways to scale automated test suites for large-scale applications, and best practices for integrating DevOps and QA automation.  
 
 📫 How to reach me:
 Feel free to reach out through GitHub or connect with me on LinkedIn. 
