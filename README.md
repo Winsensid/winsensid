@@ -12,7 +12,7 @@ Innovative ways to scale automated test suites for large-scale applications, and
 📫 How to reach me:
 Feel free to reach out through GitHub or connect with me on LinkedIn. 
 
-⚡ Fun fact: 
+⚡ Fun fact:  
 I speak four languages and enjoy working in diverse, multicultural teams  
     
 
